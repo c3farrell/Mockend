@@ -22,9 +22,9 @@
     },
     "Stock":
     {
-      "symbol": { "string": ["AMAZON"] },
-      "description": { "string": ["Amazon Everything Store"] },
-      "price": { "int": [400] },
-      "change": { "string": ["+6.56"] }
+      "symbol": { "string": ["AMAZON", "GOOG", "MSFT", "FB"] },
+      "description": { "string": ["Amazon Everything Store", "Google Innovation Media", "Microsoft Cooporation", "Facebook Social Media"] },
+      "price": { "int": [400, 1080, 60, 220] },
+      "change": { "string": ["+6.56", "-0.24", "+3.45", "-1.56"] }
     }
 }
