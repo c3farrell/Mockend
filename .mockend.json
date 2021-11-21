@@ -1,25 +1,4 @@
 {
-    "Stock": 
-    {
-      "symbol": { "string": ["GOOG"] },
-      "description": { "string": ["Google Innovation Media"] },
-      "price": { "int": [1080] },
-      "change": { "string": ["-0.24"]}
-    },
-    "Stock":
-    {
-      "symbol": { "string": ["MSFT"] },
-      "description": { "string": ["Microsoft Cooporation"] },
-      "price": { "int": [60] },
-      "change": { "string": ["+3.45"] }
-    },
-    "Stock":
-    {
-      "symbol": { "string": ["FB"] },
-      "description": { "string": ["Facebook Social Media"] },
-      "price": { "int": [220] },
-      "change": { "string": ["-1.56"] }
-    },
     "Stock":
     {
       "symbol": { "string": ["AMAZON", "GOOG", "MSFT", "FB"] },
