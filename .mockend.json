@@ -6,18 +6,21 @@
       "price": 1080,
       "change": "-0.24"
     },
+    "Stock":
     {
       "symbol": "MSFT",
       "description": "Microsoft Cooporation",
       "price": 60,
       "change": "+3.45"
     },
+    "Stock":
     {
       "symbol": "FB",
       "description": "Facebook Social Media",
       "price": 220,
       "change": "-1.56"
     },
+    "Stock":
     {
       "symbol": "AMAZON",
       "description": "Amazon Everything Store ",
