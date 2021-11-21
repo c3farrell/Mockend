@@ -1,30 +1,30 @@
 {
     "Stock": 
     {
-      "symbol": { "string": "GOOG" },
-      "description": { "string": "Google Innovation Media" },
+      "symbol": { "string": ["GOOG"] },
+      "description": { "string": ["Google Innovation Media"] },
       "price": { "int": 1080 },
-      "change": { "string": "-0.24"}
+      "change": { "string": ["-0.24"]}
     },
     "Stock":
     {
-      "symbol": { "string": "MSFT" },
-      "description": { "string": "Microsoft Cooporation" },
+      "symbol": { "string": ["MSFT"] },
+      "description": { "string": ["Microsoft Cooporation"] },
       "price": { "int": 60 },
-      "change": { "string": "+3.45"}
+      "change": { "string": ["+3.45"} }
     },
     "Stock":
     {
-      "symbol": { "string": "FB" },
-      "description": { "string": "Facebook Social Media" },
+      "symbol": { "string": ["FB"] },
+      "description": { "string": ["Facebook Social Media"] },
       "price": { "int": 220 },
-      "change": { "string": "-1.56"}
+      "change": { "string": ["-1.56"] }
     },
     "Stock":
     {
-      "symbol": { "string": "AMAZON" },
-      "description": { "string": "Amazon Everything Store" },
+      "symbol": { "string": ["AMAZON"] },
+      "description": { "string": ["Amazon Everything Store"] },
       "price": { "int": 400 },
-      "change": { "string": "+6.56"}
+      "change": { "string": ["+6.56"] }
     }
 }
