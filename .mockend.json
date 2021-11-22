@@ -1,7 +1,7 @@
 {
     "Stock":
     {
-      "symbol": { "string": ["AMAZON", "GOOG", "MSFT", "FB"] },
+      "symbol": { "regexp": "[A-Z]{3,4}" },
       "description": { "string": ["Amazon Everything Store", "Google Innovation Media", "Microsoft Cooporation", "Facebook Social Media"] },
       "price": { "int": [400, 1080, 60, 220] },
       "change": { "string": ["+6.56", "-0.24", "+3.45", "-1.56"] }
