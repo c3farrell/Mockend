@@ -2,7 +2,7 @@
     "Stock":
     {
       "symbol": { "regexp": "[A-Z]{3,4}" },
-      "description": { "loremWords": { "minLength": 3, "maxLength": 9 } },
+      "description": { "loremWords": { "minLength": 9, "maxLength": 27 } },
       "price": { "int": { "min": 1, "max": 1000 } },
       "change": { "string": ["+6.56", "-0.24", "+3.45", "-1.56"] }
     }
